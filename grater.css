@@ -42,7 +42,8 @@
 	float:left; 
 }
 
-.grater:before, .grater:after {
+.grater:before, 
+.grater:after {
 	content:"";
 	display:table;
 }
